@@ -64,7 +64,7 @@
 <a href="https://linkedin.com/in/asanka-pradeep-48926124b" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="Asanka_Pradeep" height="50" width="50" /></a>
 <a href="https://stackoverflow.com/users/25369944/asanka-pradeep" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Asanka_Pradeep" height="50" width="50" /></a>
 <a href="https://www.facebook.com/profile.php?id=61559664140756&mibextid=ZbWKwL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Asanka_Pradeep" height="50" width="50" /></a>
-<a href="#" target="blank"><img align="center" src="https://www.edigitalagency.com.au/wp-content/uploads/new-Instagram-icon-png-full-colour.png" alt="Asanka_Pradeep" height="50" width="50" /></a>
+<a href="https://www.instagram.com/asanka_dev?igsh=MTYzNDA2dHBtM3F4Ng==" target="blank"><img align="center" src="https://www.edigitalagency.com.au/wp-content/uploads/new-Instagram-icon-png-full-colour.png" alt="Asanka_Pradeep" height="50" width="50" /></a>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
