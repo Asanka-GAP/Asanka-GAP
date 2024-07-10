@@ -1,4 +1,6 @@
-<h1 align="center"><b>Hello  </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"><b>  I'm Asanka Pradeep </b></h1>
+<h1 align="center"><img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
+<b> &nbsp; Hello  </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"><b>  I'm Asanka Pradeep &nbsp; </b><img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
+</h1>
 <p align="center"><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></P>
 <h3 align="center">Passionate Software Engineering Undergrad and Computer Science Student | Aspiring Software Developer | Full Stack Enthusiast | Personal Tutor About Software Developing | Footballer | Volunteer | Freelancer @ Fiverr</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Asanka-GAP&label=Profile%20views&color=0e75b6&style=flat" alt="scar1109" /> </p>
